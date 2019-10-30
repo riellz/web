@@ -1,0 +1,52 @@
+.container1{
+background:linear-gradient(#000 30%,#0000)!important;
+}
+
+.footer {
+  width: 100%;
+  font-size: 1rem;
+  text-align: center;
+  overflow: visible;
+  color: #ffffff;
+  font-weight: bold;
+  height: 25rem;
+  background-color:#343a40;
+  }
+
+  .footerkategori {
+    width: 100%;
+    font-size: 1rem;
+    text-align: center;
+    overflow: visible;
+    color: #ffffff;
+    font-weight: bold;
+    height: 4rem;
+    background-color:#343a40;
+    }
+
+  .footerpage2 {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 1rem;
+    text-align: center;
+    overflow: visible;
+    color: #ffffff;
+    font-weight: bold;
+    height: 4rem;
+    background-color:#343a40;
+  }
+  
+  
+  /* register */
+  @media(min-width: 768px) {
+    .field-label-responsive {
+      padding-top: .5rem;
+      text-align: right;
+    }
+  }
+
+  .center_div{
+    margin: 0 auto;
+    width:80% /* value of your choice which suits your alignment */
+}
