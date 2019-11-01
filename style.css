@@ -9,7 +9,7 @@ background:linear-gradient(#000 30%,#0000)!important;
   overflow: visible;
   color: #ffffff;
   font-weight: bold;
-  height: 25rem;
+  height: 23rem;
   background-color:#343a40;
   }
 
@@ -51,6 +51,7 @@ background:linear-gradient(#000 30%,#0000)!important;
     width:80% /* value of your choice which suits your alignment */
 }
 
+/* INI UNTUK SLIDER ANIMATION */
 .carousel-fade .carousel-item {
   opacity: 0;
   transition-duration: .6s;
@@ -76,3 +77,5 @@ background:linear-gradient(#000 30%,#0000)!important;
   transform: translateX(0);
   transform: translate3d(0, 0, 0);
  }
+
+ 
